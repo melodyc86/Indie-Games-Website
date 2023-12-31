@@ -1,7 +1,7 @@
 # The Evolution of Indie Games
 
 ## Overview
-"[The Evolution of Indie Games](https://melodyc86.github.io/P4/homepage)" is a website designed to showcase the history, development, and impact of independent video games. 
+"[The Evolution of Indie Games](https://melodyc86.github.io/Indie-Games-Website/homepage)" is a website designed to showcase the history, development, and impact of independent video games. 
 The site features a range of content including historical insights, a brief bio of indie game creators, and reviews of various indie games. 
 This project was developed as part of the IS117, Intro to Web Development class and it demonstrates proficiency in web development using HTML, CSS, and the Bootstrap framework.
 
